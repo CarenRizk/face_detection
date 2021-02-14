@@ -4,9 +4,9 @@ Run the code like this:
 
 Only libraries needed are:
 
-openCV (cv2)
+[1] openCV (cv2)
 
-face_recognition: to install run: pip3 install face_recognition
+[2] face_recognition: to install run: pip3 install face_recognition
 
 If you want to understand how the code works, the details are here:
 
