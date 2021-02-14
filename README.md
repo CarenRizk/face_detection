@@ -3,7 +3,9 @@ Run the code like this:
 *python face_detect.py*
 
 Only libraries needed are:
+
 openCV (cv2)
+
 face_recognition: to install run: pip3 install face_recognition
 
 If you want to understand how the code works, the details are here:
