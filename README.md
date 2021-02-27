@@ -3,6 +3,7 @@
 You need visual studio installed on your computer to be able to use face_recognition
 
 pip install cmake
+
 pip3 install face_recognition
 
 
